@@ -3,9 +3,12 @@
 // // e mostre no console, o nomes[3], e medias[3]
 
 
-const medias = [8.5, 9, 6, 5.5, 8.5, 7]
+// const medias = [8.5, 9, 6, 5.5, 8.5, 7]
+const medias = []
+const mediasDaEscola = 7;
+let input;
 
-const nomes = ["Ana", "Bruno", "Carla", "Diego", "Elisa", "Fábio"]
+while (input != -1) {
 
 
 console.log(nomes[3])
